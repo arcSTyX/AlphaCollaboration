@@ -1,9 +1,9 @@
-BuildingEscape/Content/StarterContent/
-BuildingEscape/Intermediate/
-BuildingEscape/Saved/
+AlphaCollab/Content/StarterContent/
+AlphaCollab/Intermediate/
+AlphaCollab/Saved/
 *.vc.db
 */Build
 */binaries
 */DerivedDataCache
-BuildingEscape/.vs/BuildingEscape/v15/ipch/
+AlphaCollab/.vs/AlphaCollab/v15/ipch/
 Test3rdPerson/
